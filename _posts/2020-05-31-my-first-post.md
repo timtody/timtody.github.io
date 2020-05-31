@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My First Post!"
+permalink: /post
 ---
 
 # Hello, World!
