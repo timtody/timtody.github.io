@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First Post!"
-permalink: /post
+title: "post"
+permalink: /:title
 ---
 
 # Hello, World!
